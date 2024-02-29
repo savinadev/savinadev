@@ -1,7 +1,10 @@
-### Hi there 👋
+# Hi, I'm Savina.
+
+👩🏻‍💻 I'm a Frontend Software Engineer currently working in fintech.
+
+
 
 <!--
-**savinadev/savinadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
