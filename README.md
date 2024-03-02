@@ -1,6 +1,6 @@
 # Hi, I'm Savina.
 
-👩🏻‍💻 I'm a Frontend Software Engineer currently working in fintech.
+👩🏻‍💻 I'm a Frontend Software Engineer currently working at a fintech company.
 
 
 
